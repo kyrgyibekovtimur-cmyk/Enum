@@ -24,10 +24,10 @@ public class Main {
                      System.out.println("Жума куну жава окуйм");
                      break;
                  case SATURDAY:
-                     System.out.println("Ишемби куну жава окуйм");
+                     System.out.println("Ишемби куну эс алам");
                      break;
                  case SUNDAY:
-                     System.out.println("Жекшемби куну жава окуйм");
+                     System.out.println("Жекшемби куну эс алам");
                      break;
                  }
              }
