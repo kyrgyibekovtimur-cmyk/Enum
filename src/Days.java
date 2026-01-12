@@ -5,8 +5,8 @@ public enum Days {
     WEDNESDAY("Шаршемби куну жава окуйм"),
     THURSDAY("Бейшемби куну жава окуйм"),
     FRIDAY("Жума куну жава окуйм"),
-    SATURDAY("Ишемби куну жава окуйм"),
-    SUNDAY("Жекшемби куну жава окуйм");
+    SATURDAY("Ишемби куну эс алам"),
+    SUNDAY("Жекшемби куну эс алам");
 
     private String translation;
 
